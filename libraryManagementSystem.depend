@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1578032494 source:c:\users\cprogms\librarymanagementsystem\add.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fundeclar.h"
+
+1578113209 c:\users\cprogms\librarymanagementsystem\fundeclar.h
+
+1578287489 source:c:\users\cprogms\librarymanagementsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fundeclar.h"
+	<string.h>
+
+1577958152 source:c:\users\cprogms\librarymanagementsystem\delet.c
+	<stdio.h>
+	<stdlib.h>
+	"fundeclar.h"
+	<string.h>
+	<assert.h>
+
+1577768678 source:c:\users\cprogms\librarymanagementsystem\edit.c
+	<stdio.h>
+	<string.h>
+	"fundeclar.h"
+
+1577957693 source:c:\users\cprogms\librarymanagementsystem\issue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fundeclar.h"
+
+1578286308 source:c:\users\cprogms\librarymanagementsystem\search.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"fundeclar.h"
+
+1577948980 source:c:\users\cprogms\librarymanagementsystem\view.c
+	<stdio.h>
+	"fundeclar.h"
+
+1578124279 source:c:\users\cprogms\librarymanagementsystem\return.c
+	<stdio.h>
+	<string.h>
+	"fundeclar.h"
+
+1578115157 source:c:\users\cprogms\librarymanagementsystem\changepasswrd.c
+	<stdio.h>
+	<string.h>
+
