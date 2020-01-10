@@ -1,4 +1,8 @@
-
+/*
+This is the main function which switch to all sub routines.
+This project allow user to perform all library function,
+such as add book,search book, issue book etc..
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include "fundeclar.h"
